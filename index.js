@@ -34,3 +34,5 @@ fs.writeFile('URL.txt', url, (err) => {
       // Something else went wrong
     }
   });
+
+// put the code in compiler you will get the output
